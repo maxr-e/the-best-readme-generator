@@ -2,10 +2,21 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !== 'none') {
-    return `![Gitrhub license](https://img.shields.io/badge/license-${license}-blue.svg)`
+    return `![Github license](https://img.shields.io/badge/license-${license}-blue.svg)`
   }
-  return ``;
+  return `![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)`;
 }
+
+// my try
+function renderLicenseBadge(license) {
+  if (license !=='none') {
+    return `![Github license](https://img.shields.io/badge/license-${license}-blue.svg)`
+  }
+  return (``);
+  renderLicenseBadge()
+  // `License to kill(https://img.shields.io/badge/license-${license}-green.svg)`;
+}
+
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
