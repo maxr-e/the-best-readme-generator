@@ -30,6 +30,9 @@ Screenshots:
 
 * .md Code
 ![screenshot-code](./assets/images/screenshot-in-action3.png)
+
+Walkthrough Video:
+[Walkthrough Video](https://drive.google.com/file/d/1kxzs_zvb8srVYPv_kPjVYyssIQGdsGaf/view)
   
 ## Tests
   N/A
